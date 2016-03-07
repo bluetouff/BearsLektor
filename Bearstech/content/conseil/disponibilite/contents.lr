@@ -1,8 +1,12 @@
 _model: page
 ---
-title: Disponibilité
+title: Disponibilité et sécurité
 ---
 body:
+
+
+
+<h2>Automatisation et résilience</h2>
 
 <h2> Tests de montée en charge</h2>
 

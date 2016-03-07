@@ -1,8 +1,10 @@
 _model: page
 ---
-title: Conseil et Pilotage SI
+title: Conseil, gestion et Pilotage SI
 ---
 body:
+
+** Nous proposons des services de conseil et d'expertise comme l'audit d'architecture réseau, l'audit et la gestion de montée en charge, l'optimisation de bases de données et les interventions d'urgence sur des applications défaillantes. Nous pouvons proposer des architectures complexes, virtualisées, sous forme de cloud, ou sur serveurs physiques**
 
 Piloter efficacement un SI est un gage de souveraineté et de performance pour l'entreprise qui reprend ainsi la main sur son infrastructure et améliore son contrôle des ressources mises en œuvre.
 
@@ -51,14 +53,14 @@ il s'agit d'apporter plus de visibilité sur les ressources mises en oeuvre et l
 
 <h2>Mise en œuvre d'un espace de gestion de projet</h2>
 
-Bearstech s'appuie sur la solution libre Redmine pour ses espaces de gestion de projet.
+Bearstech s'appuie sur la solution libre <a href="http://www.redmine.org/">Redmine</a> pour ses espaces de gestion de projet.
 
 Redmine est un outil de gestion de projet souple et performant offrant out of the box les fonctionnalité suivantes :
-* module gestion de tâche (ticket)
-* module calendrier / Gantt
-* module de wikis
-* module de gestion de document
-* module Forum
+* Gestion de tâche (ticket)
+* Calendrier / Gantt
+* Wikis
+* Gestion de document
+* Forum
 
 Ensemble, nous définissons les processus, les éléments de documentations et nous les implémentons pour tirer le meilleur parti de votre application de gestion de projet dédiée Redmine.
 

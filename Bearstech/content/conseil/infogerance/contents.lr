@@ -1,3 +1,8 @@
 _model: page
 ---
 title: Infogérance
+---
+body:
+
+<p>Nos clients nous confient leurs applications, en confiance, car l'installation, l'architecture et les méthodes de travail de Bearstech ont été auditées avec succès, notamment par le groupe 3SI ou l'Arjel. Les services de supervision 24/24 7/7 sont effectués uniquement par des ingénieurs dont la mission est de gérer les incidents et faire fonctionner les applications. Selon votre demande, ils peuvent intervenir, très rapidement et à plusieurs niveaux, que ce soit dans le système, les bases de données ou le code de l'application, ce qui permet d'assurer des disponibilités fortes (99.9) et de très bons temps de rétablissement (GTR < 1h 24/24) et donc une maintenance applicative et corrective. </p>
+<p>Bearstech est devenue experte sur les technologies web scriptées (PHP, Ruby, Python, leurs frameworks et CMS web : Drupal, WordPress, Symfony, Rails, Django) ainsi que sur la gestion de bases de données complexes (MySQL, Postgresql, Redis, MongoDB), les serveurs web (Apache, lighty, nginx, mongrel, thin) et XMPP (ejabberd), les moteurs d'indexation et crawlers (Elasticsearch, Lucene, Sphinx et Solr) et d’autres outils web indispensables (Memcached, Varnish) ce qui lui permet d'intervenir sur des architectures complexes et spécifiques.</p>
