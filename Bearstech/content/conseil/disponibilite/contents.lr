@@ -5,10 +5,9 @@ title: Disponibilité et sécurité
 body:
 
 
+<p>Votre projet commence à avoir du succès et les performances de votre application commencent à s'en ressentir. La faute incombe souvent autant à la montée en charge qu'à l'optimisation des requêtes sur vos bases de données. Les ours de Bearstech, forts de leur expertise, peuvent alors vous être d'un grand secours. En procédant à un audit complet de vos requêtes, il est possible de booster vos applications et les rendre accessibles en de bien meilleures conditions pour vos utilisateurs.</p>
 
-<h2>Automatisation et résilience</h2>
-
-<h2> Tests de montée en charge</h2>
+<h3> Tests de montée en charge</h3>
 
 Tester les performances de votre plate-forme est une étape essentielle avant la mise en production de vos services et ce qu'il s'agisse d'une première version ou après la mise en oeuvre d'une évolution significative.
 
@@ -20,9 +19,13 @@ Notre méthode repose sur un principe : la reproduction réaliste du comportemen
 
 Pour ce faire et après réception des scénarios que vous avez identifiés, nous implémentons les parcours utilisateur pour mesurer l'évolution de la charge aux grès des tests réalisés.
 
-<h2>Audit de sécurité</h2>
+<h3>Optimisation et migrations</h3>
 
-<h3>Blackbox </h3>
+Une application accessible est une application performante, mais il arrive que dans la vie d'un projet, on atteigne les limites de ce que l'on peut demander à une technologie ou une infrastructure. Bearstech vous conseille, vous accompagne et réalise les migrations de bases de données, définit avec vous des stratégies de cache pour que vos applications critiques restent performantes. 
+
+<h3>Audit de sécurité</h3>
+
+<h4>Blackbox </h4>
 
 <p>Avec les accès d'un simple utilisateur, dans des conditions réelles d'attaques. La cible fait l'objet de plusieurs tests portant aussi bien sur la partie système que la partie applicative. Ces tests "blackbox" se déroulent en plusieurs étapes :</p>
 
@@ -36,6 +39,6 @@ Les tests portent sur diverses techniques d'intrusion :
 * Configuration du serveur ;
 * Injection base données (type SQLi) et injection de code (XSS)
 
-<h3>Whithebox </h3>
+<h4>Whithebox </h4>
 
 Ces tests visent une étude approfondie de l'application, de son fonctionnement, de son code et de son backoffice nécessite des accès à l'administration du site et au code source. Elle permet d'approfondir le niveau de détection sur certaines attaques comme l'escallation de privilège et ceci s'avère particulièrement utile quand plusieurs types d'utilisateurs, avec des droits différents accèdent à l'administration. Ces tests permettent de relever d'éventuelles mauvaises pratiques dans le code et des vulnérabilités en backoffice.

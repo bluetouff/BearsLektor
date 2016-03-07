@@ -27,7 +27,7 @@ Les services de pilotage SI incluent les prestations suivantes :
 * Mise en place des sondes
 * Réunions de pilotage régulières
 
-<h2>Audit des systèmes d'information</h2>
+<h3>Audit des systèmes d'information</h3>
 
 Pour que l'équipe de conseil de Bearstech puisse formuler les recommandations et mettre en œuvre les outils nécessaires, une phase d'audit préalable est souhaitable.
 
@@ -35,7 +35,7 @@ La couverture de cet audit peut varier en fonction des objectifs des DSI et de l
 
 Contactez-nous pour évaluer vos besoins et définir ensemble le périmètre de la prestation appropriée.
 
-<h2>Conseil et accompagnement</h2>
+<h3>Conseil et accompagnement</h3>
 
 Notre équipe d'experts travaille à l'optimisation des performances et de la sécurité des systèmes d'information depuis plus de 10 ans.
 
@@ -45,13 +45,13 @@ Lorsque il est question de renforcer la maitrise de votre système d'information
 
 Lors de la phase de conseil et d'accompagnement, nos ingénieurs vous assistent dans la définition des procédures et la mise en place d'une documentation pour plus d'efficacité et de cohérence.
 
-<h2>Définition et implémentation d'un tableau de pilotage</h2>
+<h3>Définition et implémentation d'un tableau de pilotage</h3>
 
 Pour améliorer votre maîtrise du système d'information, la mise en œuvre de dashboards de Pilotage est une étape essentielle.
 
 il s'agit d'apporter plus de visibilité sur les ressources mises en oeuvre et les performances des installations. Pour ce faire, nous évaluons ensemble les métriques à collecter et à analyser et mettons en oeuvre les espaces de pilotages via des vues statistiques.
 
-<h2>Mise en œuvre d'un espace de gestion de projet</h2>
+<h3>Mise en œuvre d'un espace de gestion de projet</h3>
 
 Bearstech s'appuie sur la solution libre <a href="http://www.redmine.org/">Redmine</a> pour ses espaces de gestion de projet.
 
@@ -64,7 +64,7 @@ Redmine est un outil de gestion de projet souple et performant offrant out of th
 
 Ensemble, nous définissons les processus, les éléments de documentations et nous les implémentons pour tirer le meilleur parti de votre application de gestion de projet dédiée Redmine.
 
-<h2>Orchestration de votre système d'information et procédure de déploiement</h2>
+<h3>Orchestration de votre système d'information et procédure de déploiement</h3>
 
 Cette prestation vise à définir les solutions d'ajout ou de retrait de ressources matérielles ou logicielles.
 
@@ -72,13 +72,13 @@ Définir les procédures et le outils utiles au bon déroulé des opérations de
 
 Notre expérience terrain nous place comme force de proposition incontournable lorsqu'il s'agit de développer les solutions adaptées à votre méthodologie de travail.
 
-<h2>Mise en place des sondes</h2>
+<h3>Mise en place des sondes</h3>
 
 Pour analyser les performances de votre infrastructure, nous mettons en place des sondes dont la mission consiste à récupérer les informations essentielles à la compréhension de votre système d'information.
 
 La typologie et la quantité des sondes à mettre en oeuvre sont définies en commun au terme de la phase d'audit.
 
-<h2>Réunions de pilotage régulières</h2>
+<h3>Réunions de pilotage régulières</h3>
 
 Les prestations forfaitaires de pilotage de projet SI vous offre le suivi régulier et sur le long terme de vos équipes.
 

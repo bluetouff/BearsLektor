@@ -5,11 +5,15 @@ title: La Société
 body:
 
 
+<h3>Nos métiers</h3>
+
 **Bearstech propose un large spectre de compétences, principale résultante d'une équipe diversifiée et experte, ce qui lui permet d'intégrer en une seule entité les technologies et le savoir-faire d'hébergeur, de développeur, de conseil et de support. Plus qu'un guichet unique, Bearstech fournit les solutions pour les applications critiques exigeant une qualité de service irréprochable et une optimisation constante de performance.**
 
-<h2>Infrastructure</h2>
+<img src="cycle.png" alt="cycle projet" /> 
 
-<h3>Notre datacenter</h3>
+<h3>Infrastructure</h3>
+
+<h4>Notre datacenter</h4>
 
 <img src="infra.png" alt="infrastructure" style="float:right;" />Nos serveurs sont situés dans les datacenters parisiens de Iliad Entreprises. Ils répondent à l'ensemble des normes actuelles d'hébergement:
 
@@ -18,7 +22,7 @@ Le système HI-FOG propose une protection efficace contre les incendies : ce sys
 Le gardiennage, 24 heures sur 24 et 7 jours sur 7, par une société spécialisée dans la sécurité de site sensible avec présence sur site d'au minimum 2 gardiens. Tout un système de détection d'intrusion, d'alarmes invisibles et de caméra infrarouge est installé sur le site. De plus, les accès au datacenter sont régulés par la mise à disposition de badges d'accès.
 L'énergie : le groupe électrogène prévu pour évoluer en configuration N+1 alimente les onduleurs et démarre automatiquement en cas de coupure, avec une possibilité de démarrage manuel. L'autonomie du groupe est de 36 heures.
 
-<h3>Nos serveurs</h3>
+<h4>Nos serveurs</h4>
 Les différentes applications sont hébergées sur une plate-forme dédiée, en virtualisation, pour permettre de s'abstraire des problèmes matériels et assurer une migration rapide.
 
 La haute disponibilité constitue un avantage essentiel offert par nos serveurs. Chacun de leurs modules d'assistance essentiels (dont les fonctions d'alimentation, de ventilation et d'administration) est hotplug et redondant. Tous nos matériels utilisent des disques redondés (RAID1 ou RAID5) et sont activement monitorés. Nos serveurs sont ultra-sécurisés, seuls les services nécessaires tournent.
@@ -29,6 +33,5 @@ Notre bande passante
 Notre fournisseur nous permet d'utiliser une bande passante (avec redondance) de plusieurs dizaines de gigabits par seconde, offrant ainsi un peering très complet.
 
 
-<h2>Réferences / usecases  / Métiers </h2>
+<h3>Réferences / usecases  / Métiers </h3>
 
-<h2>Actu</h2>
