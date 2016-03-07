@@ -1,0 +1,37 @@
+_model: page
+---
+title: Disponibilité
+---
+body:
+
+<h2> Tests de montée en charge</h2>
+
+Tester les performances de votre plate-forme est une étape essentielle avant la mise en production de vos services et ce qu'il s'agisse d'une première version ou après la mise en oeuvre d'une évolution significative.
+
+Un test de charge permet de dimensionner et valider une architecture de production satisfaisante au vue de vos objectifs.
+
+Une fois vos services en fonctionnement et accessibles, les tests de charge sont un très bon moyen de vérifier la qualité de votre démarche d'optimisation. Dans ce cas, les tests doivent être réalisés en amont de la phase d'optimisation et après que celle-ci ai été mise en oeuvre pour valider le gain de performance sur une donnée réaliste : la capacité du système à supporter une charge de visite plus importante.
+
+Notre méthode repose sur un principe : la reproduction réaliste du comportement de votre audience.
+
+Pour ce faire et après réception des scénarios que vous avez identifiés, nous implémentons les parcours utilisateur pour mesurer l'évolution de la charge aux grès des tests réalisés.
+
+<h2>Audit de sécurité</h2>
+
+<h3>Blackbox </h3>
+
+<p>Avec les accès d'un simple utilisateur, dans des conditions réelles d'attaques. La cible fait l'objet de plusieurs tests portant aussi bien sur la partie système que la partie applicative. Ces tests "blackbox" se déroulent en plusieurs étapes :</p>
+
+* Phase 1 : prise d'empreintes, détection des services, identification des versions des applications
+* Phase 2 : détection de vulnérabilités
+* Phase 3 : évaluation des risques et d'exploitation
+
+Les tests portent sur diverses techniques d'intrusion :
+
+* Fuites d'informations ;
+* Configuration du serveur ;
+* Injection base données (type SQLi) et injection de code (XSS)
+
+<h3>Whithebox </h3>
+
+Ces tests visent une étude approfondie de l'application, de son fonctionnement, de son code et de son backoffice nécessite des accès à l'administration du site et au code source. Elle permet d'approfondir le niveau de détection sur certaines attaques comme l'escallation de privilège et ceci s'avère particulièrement utile quand plusieurs types d'utilisateurs, avec des droits différents accèdent à l'administration. Ces tests permettent de relever d'éventuelles mauvaises pratiques dans le code et des vulnérabilités en backoffice.
