@@ -6,7 +6,7 @@ body:
 
 ** Nous proposons des services de conseil et d'expertise comme l'audit d'architecture réseau, l'audit et la gestion de montée en charge, l'optimisation de bases de données et les interventions d'urgence sur des applications défaillantes. Nous pouvons proposer des architectures complexes, virtualisées, sous forme de cloud, ou sur serveurs physiques**
 
-Piloter efficacement un SI est un gage de souveraineté et de performance pour l'entreprise qui reprend ainsi la main sur son infrastructure et améliore son contrôle des ressources mises en œuvre.
+<img src="project.png" alt="pilotage si" style="float:right;"/>Piloter efficacement un SI est un gage de souveraineté et de performance pour l'entreprise qui reprend ainsi la main sur son infrastructure et améliore son contrôle des ressources mises en œuvre.
 
 Mais maîtriser un système d'information déployé sur le web est une tâche complexe, nécessitant les expertises croisées d'administrateurs, architectes et développeurs système, Par ailleurs, une veille systématique est nécessaire pour connaître les avantages et les pièges des outils dédiés.
 
@@ -23,7 +23,7 @@ Les services de pilotage SI incluent les prestations suivantes :
 * Audit des systèmes d'information
 * Conseil et accompagnement
 * Mise en œuvre de dashboard de gestion	
-* Mise à œuvre d'un espace de gestion de projet	
+* Mise en œuvre d'un espace de gestion de projet	
 * Mise en place des sondes
 * Réunions de pilotage régulières
 
