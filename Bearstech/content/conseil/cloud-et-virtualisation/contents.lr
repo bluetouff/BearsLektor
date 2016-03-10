@@ -1,3 +1,27 @@
 _model: page
 ---
 title: Cloud et Virtualisation
+---
+body:
+
+<h3>Infrastructure</h3>
+
+<h4>Notre datacenter</h4>
+
+<img src="infra.png" alt="infrastructure" style="float:right;" />Nos serveurs sont situés dans les datacenters parisiens de Iliad Entreprises. Ils répondent à l'ensemble des normes actuelles d'hébergement:
+
+La climatisation assure une température de 22 °C (±4 °C) et une humidité de 48 % (±15 %). L'ensemble des locaux utilise un système de climatisation commun.
+Le système HI-FOG propose une protection efficace contre les incendies : ce système est sans risque pour les personnes et sans danger pour les équipements électriques, respectueux de l'environnement, facile à tester, moins coûteux en recharge et efficace.
+Le gardiennage, 24 heures sur 24 et 7 jours sur 7, par une société spécialisée dans la sécurité de site sensible avec présence sur site d'au minimum 2 gardiens. Tout un système de détection d'intrusion, d'alarmes invisibles et de caméra infrarouge est installé sur le site. De plus, les accès au datacenter sont régulés par la mise à disposition de badges d'accès.
+L'énergie : le groupe électrogène prévu pour évoluer en configuration N+1 alimente les onduleurs et démarre automatiquement en cas de coupure, avec une possibilité de démarrage manuel. L'autonomie du groupe est de 36 heures.
+
+<h4>Nos serveurs</h4>
+Les différentes applications sont hébergées sur une plate-forme dédiée, en virtualisation, pour permettre de s'abstraire des problèmes matériels et assurer une migration rapide.
+
+La haute disponibilité constitue un avantage essentiel offert par nos serveurs. Chacun de leurs modules d'assistance essentiels (dont les fonctions d'alimentation, de ventilation et d'administration) est hotplug et redondant. Tous nos matériels utilisent des disques redondés (RAID1 ou RAID5) et sont activement monitorés. Nos serveurs sont ultra-sécurisés, seuls les services nécessaires tournent.
+
+Par ailleurs, les sauvegardes des environnements sont effectuées de manière quotidienne sur un serveur situé dans un autre datacenter. Les bases de données sont également sauvegardées quotidiennement à chaud, sans redémarrage nécessaire de celles-ci.
+
+Notre bande passante
+Notre fournisseur nous permet d'utiliser une bande passante (avec redondance) de plusieurs dizaines de gigabits par seconde, offrant ainsi un peering très complet.
+

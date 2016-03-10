@@ -1,3 +1,14 @@
 _model: page
 ---
-title: LAMP et Python
+title: LAMP, Python, NoSQL et indexation
+---
+body:
+
+Nos ingénieurs maîtrisent  la plupart des frameworks web Python et PHP, mais nos compétences ne se limitent pas au web ni à l'internet. Nous implémentons aussi des protocoles autres que HTTP et sommes parfois amenés à utiliser des supports autres qu'un serveur traditionnel comme des micro-contrôleurs.
+
+Vous pouvez bénéficier de nos conseils en architecture, infrastructure, industrialisation et infogérance. Notre activité d'hébergeur nous a permis de
+développer une expertise dans des domaines essentiels et sensibles tels que la virtualisation (Xen, VServer, LXC, Vagrant), l'administration et l'optimisation
+de serveurs web (Haproxy, Varnish, Apache, Nginx), de base de données relationnelles (MySQL, PostgreSQL) ou NoSQL (CouchDB, MongoDB, Redis) et de
+moteur d'indexation (Elasticsearch/Kibana, Solr). Nous pouvons déployer une architecture sur mesure pour votre application web, répartie sur plusieurs
+serveurs pour une meilleure tenue en charge. Notre expérience du packaging Debian nous permet de vous proposer toutes les applications dont votre pile web
+dépend, maintenues de façon standard et industrielle.

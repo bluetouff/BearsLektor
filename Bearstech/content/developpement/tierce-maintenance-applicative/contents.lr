@@ -1,3 +1,13 @@
 _model: page
 ---
 title: Maintenance applicative (TMA)
+---
+body:
+
+La vie d'un projet implique régulièrement une modernisation des applications. Ces applications en productions sont des services critiques pour votre entreprise. Bearstech peut intervenir pour moderniser ou fluidifier une application dont le comportement se dégrade et mettre en place avec vous des processes avec en ligne de mire sa disponibilité et ses performances. Nous réalisons de la maintenance corrective, après audit, en fonction de vos pré-requis.
+
+Afin  de valider le comportement d'une application en production, nous réalisons des tests de charge: une simulation massive de scénarios complexes,
+définis par des comportements utilisateurs réalistes à l'aide  de l'outil <a href="tsung.erlang-projects.org/" alt="Tsung"> Tsung</a>. Nous fournissons enfin une analyse détaillée et sur mesure des résultats obtenus, débouchant sur des conseils immédiatement utiles pour la tenue en charge de votre application et pour l'amélioration de vos méthodologies de développement.
+
+Nous pouvons accompagner votre entreprise dans la découverte d'outils de gestion et de suivi de projets et la gestion de code source. Nous utilisons et
+déployons massivement des outils comme Redmine, Trac, RhodeCode ou encore GitLab. Nous sommes de fervents adeptes des outils de versionning, du plus ancien (CVS/SVN) au plus récent (Git/Mercurial).
